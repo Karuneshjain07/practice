@@ -38,4 +38,6 @@ elif (Operation == 3):
 else:
   exponent(num1, num2)
 
+printf("Thank You For Using It")
+
 
